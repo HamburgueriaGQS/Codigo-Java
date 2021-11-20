@@ -21,7 +21,9 @@
 <br>
 
 # Sobre o projeto
-.
+
+Nosso aplicativo tem como foco principal, atender o comércio de hamburguerias. Com esse app será possível que o usuário realize o seu cadastro e faça os seus pedidos totalmente online. Através desse software a hamburgueria receberá novos cadastros de clientes juntamente com os novos pedidos, também será capaz  de cadastrar novos produtos, promoções etc. 
+
 
 # Índice/Sumário
 
