@@ -38,7 +38,7 @@ Trabalho prático da disciplina de **Usabilidade, desenvolvimento web, mobile e 
 
 # Requisitos Funcionais 
 
-- [ ] Efetuar login através do softwarer utilizando registros do banco de dados
+- [ ] Efetuar login através do software utilizando registros do banco de dados
 - [ ] Cadastrar clientes e salvar no banco de dados.
 - [ ] Consultar dados dos clientes 
 - [ ] Consultar produtos e suas descrições
