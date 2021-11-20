@@ -21,9 +21,7 @@
 <br>
 
 # Sobre o projeto
-O mundo possui uma matriz energética composta, principalmente por fontes não renováveis, ou seja, esgotáveis. Iremos fornecer um **comparativo** da energia elétrica comum utilizada nas residências brasileiras com o uso de **painéis solares**, apresentando seus **benefícios** tanto do ponto de vista **ecológico** quanto **econômico** a fim de popularizar a prática.
-
-Trabalho prático da disciplina de **Usabilidade, desenvolvimento web, mobile e jogos** do curso de Sistemas de Informação no Centro Universitário Una Barreiro em Belo Horizonte.
+.
 
 # Índice/Sumário
 
