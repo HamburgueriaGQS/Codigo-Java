@@ -54,7 +54,7 @@
 
 | Nome  | RA  |e-mail | SEMESTRE  |
 | :------------: | :------------: | :------------: | :------------: |
-|Tiago da Costa Santos |	320136810|	tiagodacostasantos0013@gmail.com|	4°
+|Tiago da Costa Santos |	320136810|	tiagocostasantos0013@gmail.com|	4°
 |Matheus Silva Rodrigues Souza | 	 320258116| 	   |	 ?º
 |Gabrielly Dias Pereira |	320141131|	 |	?°
 |Pedro Henrique Isidorio de Souza |	32013149|	   |	?°
