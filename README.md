@@ -54,7 +54,7 @@ Trabalho prático da disciplina de **Usabilidade, desenvolvimento web, mobile e 
 
 # Autores
 
-| Nome  | RA  |Curso | SEMESTRE  |
+| Nome  | RA  |e-mail | SEMESTRE  |
 | :------------: | :------------: | :------------: | :------------: |
 |Tiago da Costa |	320136810|	tiagodacostasantos0013@gmail.com|	4°
 |Matheus Silva Rodrigues Souza | 	 320258116| 	   |	 ?º
