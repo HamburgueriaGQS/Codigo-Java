@@ -75,9 +75,8 @@ Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md
 
 # Agradecimentos
 
-Agrecimento em especial para os professores:
-
 <b> UC - Gestão e Qualidade de Softwarer</b>
+
 
 |  NOME |  TEMÁTICA/AULA |
 | :------------: | :------------: |
