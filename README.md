@@ -1,18 +1,5 @@
 ## Hamburgueria
 
-<p align="center">
-  <img src="https://i.ibb.co/7rfSNY6/13502b64-e4ff-4ea4-9f2c-d0e0d83248f8.jpg">
-</p>
-<p align="center">
-  <img src="https://i.ibb.co/m82Wyw5/203abb60-7334-4e59-9df4-ad40909f69fe.jpg">
-</p>
-<p align="center">
-  <img src="https://i.ibb.co/4Y6Yp7m/9ebaeee8-7e70-41e5-9cc0-fd4a6c23cfbe.jpg">
-</p>
-<p align="center">
-  <img src="https://i.ibb.co/pK1VtFG/a6a22736-9cfb-4d55-99c1-f5dc7d460be4.jpg">
-</p>
-
 
 <h4 align="center">
   
@@ -52,6 +39,7 @@ Nosso aplicativo tem como foco principal, atender o comércio de hamburguerias. 
 - [Postgres](https://postgres.dev/)
 - [Gherkin](https://gherkin.dev)
 
+
 # Autores
 
 | Nome  | RA  |e-mail | SEMESTRE  |
@@ -62,7 +50,6 @@ Nosso aplicativo tem como foco principal, atender o comércio de hamburguerias. 
 |Pedro Henrique Isidorio de Souza |	32013149|	   |	?°
 |Laila Gabriele Maia Souza|	320136255|	 |	?º
 |Gustavo Tannus Magalhaes Souza |	320131493|	 |	?º
-
 
 
 # Contribuição
@@ -82,3 +69,16 @@ Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md
 | :------------: | :------------: |
 | Rafaela Moreira  | Prática  |
 |  Vanessa Santos |  Teórica |
+
+<p align="center">
+  <img src="https://i.ibb.co/7rfSNY6/13502b64-e4ff-4ea4-9f2c-d0e0d83248f8.jpg">
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/m82Wyw5/203abb60-7334-4e59-9df4-ad40909f69fe.jpg">
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/4Y6Yp7m/9ebaeee8-7e70-41e5-9cc0-fd4a6c23cfbe.jpg">
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/pK1VtFG/a6a22736-9cfb-4d55-99c1-f5dc7d460be4.jpg">
+</p>
